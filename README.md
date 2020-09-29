@@ -13,6 +13,5 @@ Note: we are testing the current equilibrium position's totals but calculating t
 
 ## Screenshots
 
-#### All Products
 ![Equi](./../Screenshots/Equi.JPG?raw=true "Equi")
 
