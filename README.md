@@ -10,3 +10,9 @@ Additionally, I've printed all the equilibrium solutions along with actual, expe
 Move equilibrium from lower to upper by one position, adding previous equilibrium value to lower total (as this was excluded from totals but is now available to lower total), and subtracting new equilibrium value from upper total (as this was previously included in upper total but is now unavailable).
 
 Note: we are testing the current equilibrium position's totals but calculating totals for the next position, because we can pre-calculate the first equilibrium's lower and higher totals before the start of the main loop.
+
+## Screenshots
+
+#### All Products
+![Equi](./../Screenshots/Equi.JPG?raw=true "Equi")
+
