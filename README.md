@@ -1,5 +1,5 @@
 # Equi
-C# extended solution to Codility's Equi problem (rated medium difficulty): Find the indicies in an array such that its prefix sum equals its suffix sum, at
+C# extended solution to Codility's Equi problem (rated medium difficulty): Find the indicies in an array such that its prefix sum equals its suffix sum, defined at
 https://app.codility.com/public-report-detail/#task-2
 
 # My Solution
